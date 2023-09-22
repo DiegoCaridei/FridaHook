@@ -1,0 +1,2 @@
+# FridaHook
+FridaHook for ghidra
